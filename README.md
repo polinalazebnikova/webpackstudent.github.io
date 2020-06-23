@@ -1,3 +1,3 @@
 # webpackstudent.github.io
-example
+Example
 <script src="./dist2/main.js"></script>
